@@ -1,4 +1,4 @@
-# HTML-CSS-pracice
+# HTML-CSS-Practice
 practice front-end website with HTML &amp; CSS 
 <br />
 <br />
